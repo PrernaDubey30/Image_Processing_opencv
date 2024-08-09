@@ -8,4 +8,5 @@ This repository shows an advanced image processing project that integrates AWS R
 
 # Libraries Used
 -OpenCV: For handling and processing images.
+
 -Boto3: AWS SDK for Python, used to access AWS Rekognition services.
