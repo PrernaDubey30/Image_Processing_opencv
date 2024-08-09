@@ -4,6 +4,7 @@ This repository shows an advanced image processing project that integrates AWS R
 
 # Features-
 1)Image Loading and Processing: Utilizes OpenCV for opening, displaying, and manipulating images.
+
 2)AWS Rekognition Integration: Implements AWS Rekognition through Boto3 to analyze images for various attributes like object detection, facial analysis, and text recognition.
 
 # Libraries Used
