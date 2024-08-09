@@ -1,5 +1,5 @@
 # Image_processing_opencv
-Image Processing with AWS Rekognition
+##Image Processing with AWS Rekognition
 This repository shows an advanced image processing project that integrates AWS Rekognition, a powerful service provided by Amazon Web Services, to perform various image analysis tasks. The project is built using Python and uses key libraries like OpenCV for image manipulation and Boto3 for interaction with AWS services.
 
 Features-
